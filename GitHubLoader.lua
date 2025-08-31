@@ -2,7 +2,7 @@
 -- HTTP-based module loader for GitHub deployment
 -- Replace YOUR_USERNAME with your actual GitHub username
 
-local BASE_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/haikyu-hub-v4/main/modules/"
+local BASE_URL = "https://raw.githubusercontent.com/realuzth/haikyu-hub-v4/main/modules/"
 
 -- HTTP module loader
 local function httpRequire(url)
