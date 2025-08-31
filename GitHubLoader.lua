@@ -1,7 +1,7 @@
 -- GitHubLoader.lua
 -- HTTP-based module loader for GitHub deployment
 -- Replace YOUR_USERNAME with your actual GitHub username
-
+print("hello")
 local BASE_URL = "https://raw.githubusercontent.com/realuzth/Haikyu-Hub-V4/refs/heads/main/Modules/"
 
 -- HTTP module loader
